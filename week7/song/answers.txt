@@ -1,0 +1,8 @@
+-- All songs in the database.
+-- All songs in increasing order of tempo.
+-- The names of the top 5 longest songs, in descending order of length.
+-- The names of any songs that have danceability, energy, and valence greater than 0.75.
+-- The average energy of all the songs.
+-- The names of songs that are by Post Malone.
+-- The average energy of songs that are by Drake
+-- The names of songs that feature other artists.

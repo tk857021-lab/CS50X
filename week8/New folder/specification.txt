@@ -1,0 +1,22 @@
+tag used;
+html
+header
+ul
+li
+main
+footer
+dev
+nav
+section
+p
+ol
+a
+button
+head
+title
+
+ js implematation
+ dark mode
+
+ bootstrap implematation
+ hero and feature

@@ -1,0 +1,36 @@
+body {
+     width: 90%;
+     mergin: auto;
+     background-color:
+#0B32E5
+     ;
+
+ }
+
+nav>ul{
+    list-style: none;
+    text-align: center;
+    justify-content:center;
+
+}
+nav>ul>li>a{
+    taxt-decoration: none;
+}
+header{
+    text-align:center;
+}
+h1{
+       text-align:center;
+}
+footer{
+       text-align:center;
+}
+
+p {
+    text-align:center
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
